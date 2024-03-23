@@ -2,7 +2,7 @@
 - 👀 I’m an aspiring data analyst who enjoys documenting her learning journey.
 - 🌱 I’m currently learning data storytelling.
 - 💞️ I’m looking to collaborate on data analysis projects; volunteer or otherwise.
-- 📫 Let's connect on [Linkedin](www.linkedin.com/in/satwika-anchuru)
+- 📫 Let's connect on [Linkedin](https://www.linkedin.com/in/satwika-anchuru/)
 
 
 <!---
