@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anchuru-Satwika
+- 👋 Hi, I’m Anchuru-Satwika
 - 👀 I’m an aspiring data analyst who enjoys documenting her learning journey.
 - 🌱 I’m currently learning data storytelling.
 - 💞️ I’m looking to collaborate on data analysis projects; volunteer or otherwise.
